@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+.App>li{
+  margin-left:40%;
+  text-align: left;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
